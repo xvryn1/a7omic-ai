@@ -1,4 +1,4 @@
-const API_KEY = "MASUKKAN_API_KEY_BARU_DI_SINI";
+const API_KEY =  "";
 
 async function sendMessage(){
 
